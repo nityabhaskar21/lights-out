@@ -92,7 +92,7 @@ class Board extends Component {
 
 		if (!this.state.hasWon) {
 			table = (
-				<div>
+				<div classNmae="BoardMargin">
 					<h1 className="Board-h1">
 						LIGHTS <span className="Board-h1--2nd">OUT</span>
 					</h1>

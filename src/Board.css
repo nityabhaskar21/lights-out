@@ -1,3 +1,7 @@
+.BoardMargin {
+  margin-top: 2rem
+}
+
 .Board,
 .Board-btn {
   margin: 0 auto;
@@ -6,12 +10,12 @@
 }
 
 .Board-h1 {
-  font-size: 3.5rem;
+  font-size: 3rem;
   text-align: center;
   line-height: 1;
   color: #c6e2ff;
   animation: neon .08s ease-in-out infinite alternate;
-  margin: 0;
+  margin-top: 7rem;
 }
 
 .Board-h1--2nd {

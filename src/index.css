@@ -1,14 +1,14 @@
 @import url('https://fonts.googleapis.com/css?family=Kumar+One+Outline&display=swap&subset=latin-ext');
 
 code {
-  font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New",
+  font-family: Arial, Helvetica, sans-serif,
     monospace;
 }
 
 body {
   margin: 0;
   padding: 0;
-  font-family: 'Kumar One Outline', cursive;
+  font-family: Arial, Helvetica, sans-serif cursive;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
   background-color: #2d3436;
